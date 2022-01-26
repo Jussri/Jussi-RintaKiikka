@@ -1,0 +1,22 @@
+body{
+    background-color: bisque;
+}
+.red{
+    background-color: rgb(219, 9, 9);
+}
+.container-fluid{
+    background-color: bisque;
+}
+
+footer{
+    background-color: bisque;
+    text-align: center;
+    font-weight: bold;
+}
+table{
+    font-weight: bold;
+}
+.center {
+    margin-left: auto;
+    margin-right: auto;
+}

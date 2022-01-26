@@ -1,0 +1,48 @@
+article > p{
+    background-color: aqua;
+}
+
+.notebox{
+    border: 5px solid rgb(14, 5, 24);
+    padding: .5em;
+    width: fit-content;
+}
+
+.notebox.warning{
+    background-color: orange;
+    font-weight: bold;
+}
+
+.notebox.danger{
+    background-color: brown;
+}
+
+header{
+    background-color: blueviolet;
+}
+
+mytitle{
+    background-color: chocolate;
+}
+
+/* unvisited link */
+a:link {
+    color: red;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: green;
+    text-decoration: line-through;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: hotpink;
+    text-decoration: underline;
+  }
+  
+  /* selected link */
+  a:active {
+    color: blue;
+  }
